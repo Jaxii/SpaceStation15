@@ -1,4 +1,4 @@
-[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+[compileScala, compileTestScala]*.options*.encoding = 'UTF-8'
 
 
 dependencies {
